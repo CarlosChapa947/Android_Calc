@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="btn_size">80sp</dimen>
-    <dimen name="btn_radius">50sp</dimen>
+    <dimen name="btn_radius">0sp</dimen>
     <dimen name="btn_textSize">50sp</dimen>
     <dimen name="btn_textSizecalc">25sp</dimen>
     <dimen name="btn_multitextSize">20sp</dimen>
